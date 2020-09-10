@@ -1,4 +1,9 @@
+# WARNING
+I do not warranty this in any way. The code seems to work fine for me but do your due diligence and read the code before running. I don't want people accidentally deleting things that they need.
+
 # notion-empty-trash
+This script permanantly deletes pages in notion trash.
+
 As an experiment, I decided to write a selenium script to permanently delete all of my deleted notion pages. I want to see if 
 it positively affects performance.
 
