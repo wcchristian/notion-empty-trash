@@ -1,0 +1,5 @@
+token_v2="bc3bd0b42ed29cd86758fd1c500a7577ce48cbe724cfa08f75b91f7921064921850c4af5e44090ef92f68e8b7bbf8ed21e8408d094409e61aaf8a0740d95ce92ed4290f86749a995a1856b12f1db"
+notion_user_id="5c0d74a4-fbe0-4dc4-b746-3d9748e9abae"
+notion_users="%5B%225c0d74a4-fbe0-4dc4-b746-3d9748e9abae%22%5D"
+landing_page="https://www.notion.so/wcchristian/Inbox-370d208154bb4e28b9f039d76e2fd012"
+chrome_driver_location="/Users/canders/dev/tools/chromedriver"
