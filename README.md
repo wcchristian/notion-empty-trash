@@ -18,9 +18,14 @@ Head to config.py and fill in the variables for your run.
 These are used for various items, namely for authentication to notion.
 
 token_v2 - login creds, head to devtools in your browser to notion cookies to retrieve this
+
 notion_user_id - login creds, head to devtools in your browser to notion cookies to retrieve this
+
 notion_users - login creds, head to devtools in your browser to notion cookies to retrieve this
-landing_page - a page for notion to navigate to, could just be notion.so if you want. Essentially telling the driver where to head.
+
+landing_page - a page for notion to navigate to, could just be notion.so if you want. Essentially telling the driver 
+where to head.
+
 chrome_driver_location - the location of the chromedriver on your system downloaded in the previous script
 
 ## Running the script
